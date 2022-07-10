@@ -1,10 +1,10 @@
 => Name of Project : "LSC:Lets Start Chat"
 => What it is : A Real-time MultiUser Chat Application.
 
--------------------------------------------------------Running DEMO of the Project---------------------------------------------------------------------------------
+------------------Running DEMO of the Project-----------------
 Here 3 USERS named Rohan, Mohan and Shubham have joined the chat and are able to communicate live with each other. See the image below : 
 ![project_demo](https://user-images.githubusercontent.com/97439744/178131936-9bf8e858-03dc-4557-882c-ece93358e1d3.png)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------
 => How to run :
  i) Download complete folder.
  ii) open terminal in that folder, and run the command :
